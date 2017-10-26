@@ -46,8 +46,8 @@ page:
   tags: 标签
 
 footer:
-  powered: "由 %s 强力驱动"
-  theme: 主题
+  powered: "Powered by %s and <a href='http://portal.azure.com' target='_blank'>Microsoft Azure</a>"
+  theme: Theme
 
 counter:
   tag_cloud:
