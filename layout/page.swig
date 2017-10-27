@@ -22,7 +22,9 @@
     {### PAGE BLOCK ###}
     {##################}
     <div class="post-block page">
-      {% include '_partials/page-header.swig' %}
+      {% if not page.hide_title %}
+        {% include '_partials/page-header.swig' %}
+      {% endif %}
       {#################}
       {### PAGE BODY ###}
       {#################}
