@@ -436,7 +436,7 @@ needmoreshare2:
     enable: true
     options:
       iconStyle: default
-      position: middleRight
+      position: middleBottom
       networks: Wechat,QQZone,Weibo,Twitter,Facebook
   float: 
     enable: false
