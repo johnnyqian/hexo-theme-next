@@ -46,7 +46,7 @@ page:
   tags: 标签
 
 footer:
-  powered: "Powered by %s and <a href='http://portal.azure.com' target='_blank'>Microsoft Azure</a>"
+  powered: "Powered by %s"
   theme: Theme
 
 counter:
