@@ -352,7 +352,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: johnnyqian
   count: true
 
@@ -370,12 +370,12 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://github.com/xCss/Valine
 valine:
-  enable: false
-  appid:  # your leancloud application appid
-  appkey:  # your leancloud application appkey
+  enable: true
+  appid:  WuOkdwNoFwSMb2t3YoKcifLN-gzGzoHsz
+  appkey:  meXAEVDAW3Hz3VKi5KENmgRh
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
-  verify: false # Verification code
-  placeholder: Comment input placeholder
+  verify: true # Verification code
+  placeholder: 说点什么吧
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
@@ -412,7 +412,7 @@ gitment:
 # This plugin is more useful in China, make sure you known how to use it.
 # And you can find the use guide at official webiste: http://www.jiathis.com/.
 # Warning: JiaThis does not support https.
-jiathis: true
+jiathis: false
   ##uid: Get this uid from http://www.jiathis.com/
 #add_this_id:
 
@@ -431,14 +431,13 @@ jiathis: true
 #           Technorati,Posterous,Tumblr,GoogleBookmarks,Newsvine,
 #           Evernote,Friendfeed,Vkontakte,Odnoklassniki,Mailru
 needmoreshare2:
-  enable: false
+  enable: true
   postbottom: 
-    enable: false
+    enable: true
     options:
-      iconStyle: box
-      boxForm: horizontal
-      position: bottomCenter
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+      iconStyle: default
+      position: middleRight
+      networks: Wechat,QQZone,Weibo,Twitter,Facebook
   float: 
     enable: false
     options:

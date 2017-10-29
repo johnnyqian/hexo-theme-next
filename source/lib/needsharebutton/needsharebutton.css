@@ -18,7 +18,7 @@
 
   width: 100%;
   max-width: 200px;
-  margin: auto;
+  margin: 0 25px 25px;
 }
 .need-share-button_dropdown {
   position: absolute;
@@ -27,7 +27,7 @@
   visibility: hidden;
   overflow: hidden;
 
-  width: 300px;
+  width: 250px;
 
   font-size: 16px;
 

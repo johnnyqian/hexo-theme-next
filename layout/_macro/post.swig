@@ -382,7 +382,7 @@
           {% endif %}
           <div id="needsharebutton-postbottom">
             <span class="btn">
-              <i class="fa fa-share-alt" aria-hidden="true"></i>
+              分享
             </span>
           </div>
         {% endif %}
