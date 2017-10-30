@@ -120,7 +120,7 @@ scheme: Mist
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/johnnyqian || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+  Mail: mailto:me@johnnyqian.net || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -455,7 +455,7 @@ needmoreshare2:
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
-#bing_site_verification:
+bing_site_verification: 3B39FB4B0E1E4B7D28189CBD10CD1180
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -548,7 +548,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
@@ -651,7 +651,7 @@ motion:
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
