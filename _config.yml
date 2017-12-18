@@ -40,7 +40,7 @@ footer:
   since: 2016
 
   # Icon between year and copyright info.
-  icon: heart
+  icon: heart-o
 
   # If not defined, will be used `author` from Hexo main config.
   copyright:
