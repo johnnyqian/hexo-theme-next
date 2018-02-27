@@ -1,4 +1,7 @@
 {% if theme.needmoreshare2.enable %}
+  {% set needmoreshare2_font_css = url_for(theme.vendors._internal + '/needsharebutton/font-embedded.css') %}
+  <link rel="stylesheet" href="{{ needmoreshare2_font_css }}">
+
   {% set needmoreshare2_css = url_for(theme.vendors._internal + '/needsharebutton/needsharebutton.css') %}
   {% if theme.vendors.needmoreshare2 %}
     {% set needmoreshare2_css = theme.vendors.needmoreshare2_css %}
