@@ -466,7 +466,7 @@ bing_site_verification: 3B39FB4B0E1E4B7D28189CBD10CD1180
 
 # Application Insights
 # See https://azure.microsoft.com/en-us/services/application-insights/
-# application_insights:
+application_insights: d1b88c98-c2b3-4def-82bc-fb041dd9721f
 
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
