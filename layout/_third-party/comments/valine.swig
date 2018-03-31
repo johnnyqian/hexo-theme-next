@@ -1,6 +1,6 @@
 {% if page.comments and theme.valine.enable and theme.valine.appid and theme.valine.appkey %}
   
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="{{ url_for(theme.js) }}/src/leancloud.js"></script>
   <script src="{{ url_for(theme.js) }}/src/valine.js?v={{ theme.version }}"></script>
 
   <script type="text/javascript">
