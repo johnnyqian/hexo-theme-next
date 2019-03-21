@@ -6,12 +6,6 @@
     <i class="fa fa-{{ theme.footer.icon }}"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>
-  <span class="fontawesome">
-    <i class="fa fa-registered"></i>
-  </span>
-  <span class="ICP">
-    沪ICP备17055219号-1
-  </span>
 
   {% if theme.post_wordcount.totalcount %}
     <span class="post-meta-divider">|</span>
