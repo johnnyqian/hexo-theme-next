@@ -86,9 +86,11 @@ index_with_subtitle: false
 menu:
   home: / || home
   archives: /archives/ || archive
-  categories: /categories/ || th
+  #categories: /categories/ || th
   tags: /tags/ || tags
   tools: /tools/ || cog
+  projects: /projects || flag
+  digest: /digest || book
   about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
