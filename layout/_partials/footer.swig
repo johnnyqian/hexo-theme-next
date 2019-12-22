@@ -40,6 +40,9 @@
 #}</div>
 {% endif %}
 
+<span class="post-meta-divider">|</span>
+<a class="theme-link" target="_blank" href="https://status.johnnyqian.net">Status</a>
+
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{#
   #}{{ theme.footer.custom_text }}{#
