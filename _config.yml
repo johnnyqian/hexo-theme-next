@@ -373,8 +373,8 @@ changyan:
 # more info please open https://github.com/xCss/Valine
 valine:
   enable: true
-  appid:  WuOkdwNoFwSMb2t3YoKcifLN-gzGzoHsz
-  appkey:  meXAEVDAW3Hz3VKi5KENmgRh
+  appid:  SLsQEHmSb0p7HEQ3KleJRMV5-MdYXbMMI
+  appkey: UkBo15Arz7PsTUj0Ith6PP4Y
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: true # Verification code
   placeholder: 说点什么吧
@@ -520,8 +520,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: WuOkdwNoFwSMb2t3YoKcifLN-gzGzoHsz
-  app_key: meXAEVDAW3Hz3VKi5KENmgRh
+  app_id:  SLsQEHmSb0p7HEQ3KleJRMV5-MdYXbMMI
+  app_key: UkBo15Arz7PsTUj0Ith6PP4Y
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
